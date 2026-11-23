@@ -1,0 +1,12 @@
+# cabal
+dist
+dist-*
+/*.cabal
+
+
+# macOS
+.DS_Store
+
+# nix
+result
+result-*
